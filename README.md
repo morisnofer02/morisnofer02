@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; justify-content: space-between;">
+<div align="left" style="display: flex; justify-content: space-between;">
 
   <div>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
